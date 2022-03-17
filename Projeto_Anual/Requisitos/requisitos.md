@@ -1,6 +1,6 @@
 // Projeto Anual - Laura Caroline Pinto Correia 20.00171-0
 
-Requisitos
+# Requisitos iniciais
 
 - Promoções
     - No topo do site para facilitar a visualização e atrair os clientes
