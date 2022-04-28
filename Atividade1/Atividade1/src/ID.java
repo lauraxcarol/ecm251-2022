@@ -4,8 +4,8 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class ID {
     public static String gerarID(int idBem, String usuario, double valor){
-        int numeroAleatorio = ThreadLocalRandom.current().nextInt(1000, 10000);
-        return String.format("%d;%s;%.5f;%d", 
+        int numeroAleatorio = ThreadLocalRandom.current().nextInt(10000, 99999);
+        return String.format("%d;%s;%.2f;%d", 
             idBem,
             usuario, 
             valor, 

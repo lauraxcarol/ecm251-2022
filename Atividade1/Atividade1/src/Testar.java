@@ -10,7 +10,7 @@ public class Testar {
 
 
     public static String{
-        int idBem = ThreadLocalRandom.current().nextInt(1000, 10000);
+        int idBem = ThreadLocalRandom.current().nextInt(10000, 99999);
     }
     public Meio(String carro, String moto, String bicicleta, String patinete){
         this.carro = carro;
