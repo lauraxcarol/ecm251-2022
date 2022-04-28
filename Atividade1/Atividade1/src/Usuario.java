@@ -2,8 +2,11 @@
 
 public class Usuario {
     private int utilizando;
+    private String nome;
+
+    idBem.getID();
     
-    public Utilizando(){
+    public Usuario(){
         this.utilizando = 0;
     }
 
@@ -11,7 +14,7 @@ public class Usuario {
         this.nome = nome;
     }
 
-    public String getNome(){
+    public String getNome(String nome){
         return nome;
     }
 
@@ -21,7 +24,7 @@ public class Usuario {
     }
 
 
-    public String testar(){
-        return "ID do bem:" + idBem + \n "Tipo de meio:"
+    public String testar(int idBem){
+        return "ID do bem:" + idBem.getID() + \n "Tipo de meio:";
     }
 }

@@ -8,11 +8,7 @@ public class Testar {
     private String bicicleta;
     private String patinete;
 
-
-    public static String{
-        int idBem = ThreadLocalRandom.current().nextInt(10000, 99999);
-    }
-    public Meio(String carro, String moto, String bicicleta, String patinete){
+    public Testar(String carro, String moto, String bicicleta, String patinete){
         this.carro = carro;
         this.moto = moto;
         this.bicicleta = bicicleta;
