@@ -1,13 +1,12 @@
 public class Tesoura extends Jogada{
 
-    private String tipo;
-    public Tesoura(String venco){
-        super(venco);
+    public Tesoura() {
+        super("Papel");
     }
-    
     @Override
-    public String getTipo{
+    public String getTipo() {
         return "Tesoura";
     }
-
+        
+    
 }
