@@ -17,6 +17,8 @@ public class Sistema {
         jogadas[0] = new Pedra();
         jogadas[1] = new Papel();
         jogadas[2] = new Tesoura();
+        jogadas[3] = new Spoke();
+        jogadas[4] = new Lagarto();
         return jogadas[ThreadLocalRandom.current().nextInt(jogadas.length)];
     }
 
