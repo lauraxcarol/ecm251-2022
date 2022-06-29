@@ -1,3 +1,3 @@
-public class Funcoes {
-    
+public enum Funcoes {
+    MOBILEMEMBERS, HEAVYLIFTERS, SCRIPTGUYS, BIGBROTHERS;
 }
