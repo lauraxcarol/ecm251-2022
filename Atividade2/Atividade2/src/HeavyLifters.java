@@ -8,6 +8,6 @@ public class HeavyLifters extends Members{
 
     private final String mensagemExtra = "N00b_qu3_n_Se_r3pita.bat";
 
-    private final String mensagemRegular = "Podem Contar Conosco!";
+    private final String mensagemRegular = "Podem contar conosco!";
 
 }

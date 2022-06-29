@@ -8,6 +8,6 @@ public class BigBrothers extends Members{
 
     private final String mensagemExtra = "...";
 
-    private final String mensagemRegular = "Sempre ajudando as pessoas membros ou nao S2!";
+    private final String mensagemRegular = "Sempre ajudando as pessoas membros ou não S2!";
     
 }

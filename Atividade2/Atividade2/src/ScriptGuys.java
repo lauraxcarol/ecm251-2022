@@ -8,6 +8,6 @@ public class ScriptGuys extends Members{
     
     private final String mensagemExtra = "QU3Ro_S3us_r3curs0s.py";
     
-    private final String mensagemRegular = "Prazer em ajudar novos amigos de codigo!";
+    private final String mensagemRegular = "Prazer em ajudar novos amigos de código!";
     
 }
